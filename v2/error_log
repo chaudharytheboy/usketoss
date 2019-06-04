@@ -1,0 +1,101 @@
+[16-May-2019 09:34:34 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/hostingadmin/fitbitty.com/usketoss/v1/feal.php on line 1
+[16-May-2019 09:34:34 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/hostingadmin/fitbitty.com/usketoss/v1/feal.php(1) : runtime-created function(1) : eval()'d code on line 1083
+[29-May-2019 12:01:21 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:01:21 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:01:21 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:01:21 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:01:23 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:01:23 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:01:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 12:01:23 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 21
+[29-May-2019 12:01:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 24
+[29-May-2019 12:01:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 25
+[29-May-2019 12:01:23 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 37
+[29-May-2019 12:01:23 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:01:23 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:08:11 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:08:11 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:08:11 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:08:11 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:08:13 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:08:13 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:08:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 12:08:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 21
+[29-May-2019 12:08:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 24
+[29-May-2019 12:08:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 25
+[29-May-2019 12:08:13 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 37
+[29-May-2019 12:08:13 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:08:13 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:49:50 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:49:50 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 12:49:50 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 12:49:50 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:22:29 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:22:29 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:22:29 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:22:29 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:22:58 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:22:58 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:22:58 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:22:58 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:23:22 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:23:22 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:23:22 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:23:22 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:23:23 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:23:23 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:23:23 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:23:23 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:25:12 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:07 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:07 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:07 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:07 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:07 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:08 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:08 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:08 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:30 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:30 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:30 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:30 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:41 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:41 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:41 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:41 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:42 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:42 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:26:42 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:26:42 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:28:41 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:28:41 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:28:41 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:28:41 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:31:23 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:31:23 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:31:23 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:31:23 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:31:31 UTC] PHP Warning:  include(../database.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:31:31 UTC] PHP Warning:  include(): Failed opening '../database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 3
+[29-May-2019 13:31:31 UTC] PHP Warning:  include(layout-bottom.php): failed to open stream: No such file or directory in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:31:31 UTC] PHP Warning:  include(): Failed opening 'layout-bottom.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 170
+[29-May-2019 13:32:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:32:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:35:25 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:36:21 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:38:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:38:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:38:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:41:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:45:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:47:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:47:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:47:36 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
+[29-May-2019 13:49:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hostingadmin/fitbitty.com/usketoss/v2/index.php on line 20
